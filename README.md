@@ -10,12 +10,12 @@
 * Seaborn
 * Tensorflow
 
-# Folder strcuture descriptions
+## Folder strcuture descriptions
 * **Meal_detection_training.ipynb** - Script for training the data
 * **Meal_detection_testing.py** - Script for testing the data
 * **Models**: Contains trained ML models which can be used while testing
 
-# Testing instructions
+## Testing instructions
 The test function takes an input of a test data csv file and predicts the
 respective outputs of the data in a new csv file.
 To test a particular model, call the function defined for that model with the 
